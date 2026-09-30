@@ -1,0 +1,50 @@
+{
+  "name": "Rafay Ahmed",
+  "location": "Karachi, Pakistan",
+  "min_salary": 60000,
+  "preferred_salary": 100000,
+  "roles": [
+    "IT Support Specialist",
+    "IT Support Engineer",
+    "Network Support Engineer",
+    "Network Engineer",
+    "System Administrator",
+    "IT Administrator",
+    "Technical Support Engineer",
+    "NOC Engineer",
+    "Network Engineer",
+    "Windows System Administrator"
+  ],
+  "skills": [
+    "IT Support",
+    "Networking",
+    "Windows Server",
+    "Active Directory",
+    "DHCP",
+    "DNS",
+    "TCP/IP",
+    "Cisco",
+    "Sophos",
+    "VMware",
+    "Windows 10",
+    "Windows 11",
+    "PuTTY",
+    "SIP",
+    "VoIP",
+    "Issabel",
+    "Synology",
+    "Hardware Troubleshooting",
+    "Technical Support"
+  ],
+  "exclude_terms": [
+    "call center",
+    "telecaller",
+    "sales",
+    "marketing",
+    "business development",
+    "commission",
+    "unpaid",
+    "data entry"
+  ],
+  "experience_years": 1
+}
